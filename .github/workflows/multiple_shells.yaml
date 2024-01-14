@@ -1,4 +1,3 @@
-#Jobs avec plusieurs shells
 name: Multiple shells commands
 on:
   push:
